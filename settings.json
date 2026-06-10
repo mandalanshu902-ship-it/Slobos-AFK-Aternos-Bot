@@ -70,7 +70,7 @@
   },
   "beds": {
     "pick-up-day": true,
-    "place-night": ture
+    "place-night": ture,
   },
   "discord": {
     "enabled": false,
